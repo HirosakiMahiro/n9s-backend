@@ -2,7 +2,8 @@
   "version": 2,
   "functions": {
     "api/generate-jwt.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "now-php@1.0.0"
     }
   }
+
 }
