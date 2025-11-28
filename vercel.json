@@ -1,13 +1,7 @@
 {
-  "version": 2,
   "functions": {
-    "api/generate-jwt.php": {
-      "runtime": "now-php@1.0.0"
+    "api/**/*.php": {
+      "runtime": "vercel-php@latest"
     }
   }
-
 }
-
-
-
-
