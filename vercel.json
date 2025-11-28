@@ -2,11 +2,12 @@
   "version": 2,
   "functions": {
     "api/generate-jwt.php": {
-      "runtime": "vercel-php@latest"
+      "runtime": "now-php@1.0.0"
     }
   }
 
 }
+
 
 
 
