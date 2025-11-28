@@ -29,3 +29,4 @@ echo json_encode([
     "token" => $jwt,
     "user_id" => $user_id
 ]);
+
