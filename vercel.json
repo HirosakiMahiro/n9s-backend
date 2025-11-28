@@ -1,10 +1,11 @@
 {
   "version": 2,
   "functions": {
-    "api/generate-jwt.js": {
-      "runtime": "now-php@8.0"
+    "api/generate-jwt.php": {
+      "runtime": "now-php@1.0.0"
     }
   }
 
 }
+
 
